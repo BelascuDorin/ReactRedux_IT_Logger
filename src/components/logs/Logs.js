@@ -32,6 +32,7 @@ const Logs = ( { logs, loading, getLogs }) => {
 Logs.propTypes = {
     logs: PropTypes.array.isRequired,
     loading: PropTypes.bool.isRequired,
+    getLogs: PropTypes.func.isRequired,
 }
 
 const mapStateToProps = state => ({
