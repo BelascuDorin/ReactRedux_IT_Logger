@@ -22,6 +22,6 @@ export const getLogs = () => async dispatch => {
 
 export const setLoading = () => {
     return {
-        type: SET_LOADING;
+        type: SET_LOADING,
     }
 }
