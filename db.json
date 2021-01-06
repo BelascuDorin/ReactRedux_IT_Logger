@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Change network card in server 007",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2021-01-06T11:45:40.685Z",
-      "id": 1
+      "id": 1,
+      "message": "Fixed harddrive on 005",
+      "attention": false,
+      "tech": "John Doe 2",
+      "date": "2021-01-06T13:04:25.204Z"
     },
     {
       "message": "hard drivfe failed in wk 002",
